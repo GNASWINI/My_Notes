@@ -1,3 +1,8 @@
+---
+title: Introduction to OOPS
+tags: [Java, OOPS]
+---
+
 # Java OOPs Concepts
 
 Object-Oriented Programming (OOPs) is a way of writing programs using **objects** and **classes**.  

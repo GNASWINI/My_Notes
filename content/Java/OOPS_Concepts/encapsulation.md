@@ -1,3 +1,7 @@
+---
+title: Encapsulation
+---
+
 # Encapsulation in Java
 
 **Definition:**  

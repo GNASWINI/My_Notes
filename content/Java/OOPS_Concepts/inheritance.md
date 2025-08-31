@@ -1,3 +1,7 @@
+---
+title: Inheritance
+---
+
 # Inheritance in Java
 
 **Definition:**  
